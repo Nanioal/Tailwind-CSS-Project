@@ -1,12 +1,36 @@
-# React + Vite
+# Nike Landing Page 🏃‍♂️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek and responsive Nike-themed landing page built using **Tailwind CSS** and **React.js**, inspired by the [JavaScript Mastery tutorial](https://github.com/adrianhajdin/nike_landing_page). This project showcases modern UI design, component-based architecture, and mobile-first responsiveness.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Hero section with bold visuals and call-to-action
+- Product showcase with dynamic layout
+- Testimonials and newsletter integration
+- Fully responsive design across devices
+- Tailwind CSS utility-first styling
+- Clean and modular React components
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js
+- Tailwind CSS
+- Vite (for fast development and build)
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/your-username/nike-landing-page.git
+cd nike-landing-page
+npm install
+npm run dev
+
+src/
+├── assets/         # Images and icons
+├── components/     # Reusable UI components
+├── constants/      # Static data and config
+├── App.jsx         # Main app component
+├── main.jsx        # Entry point
+
+
+![Screenshot of the landing page](image.png)
