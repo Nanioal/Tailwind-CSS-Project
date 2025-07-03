@@ -32,5 +32,5 @@ src/
 ├── App.jsx         # Main app component
 ├── main.jsx        # Entry point
 
-
-![Screenshot of the landing page](image.png)
+```
+## Here is the deployed site https://tailwind-css-project-sage.vercel.app/
